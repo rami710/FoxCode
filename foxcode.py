@@ -3,7 +3,7 @@ import sys
 import webbrowser
 
 print("==================================================")
-print("🦊 FOXCODE ENGINE V7 (INDISTRUCTIBLE & SANS LIMITES)")
+print("🦊 FOXCODE ENGINE V1 (INDISTRUCTIBLE & SANS LIMITES)")
 print("==================================================")
 print("Écris tes commandes FoxCode, du HTML ou du texte libre.")
 print("Commandes : titre, texte, annonce, champ_recherche, bouton_pilule, carte_neon, css, Total Pro, reset, run\n")
